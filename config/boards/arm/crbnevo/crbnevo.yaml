@@ -1,6 +1,6 @@
-identifier: bt65
-name: bt65
-type: mcu
+identifier: crbnevo
+name: crbnevo
+type: keyboard
 arch: arm
 toolchain:
   - zephyr
